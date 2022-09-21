@@ -1,0 +1,1 @@
+print(f"{min(2000, max(100, 25+int(input())*0.01)):.4f}")

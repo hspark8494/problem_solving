@@ -1,0 +1,1 @@
+print(int(input()) * "SciComLove\n", end="")

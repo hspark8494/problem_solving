@@ -1,0 +1,1 @@
+print(min(int(input()),len(input().replace("LL","S"))+1))

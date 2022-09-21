@@ -1,0 +1,1 @@
+print("go" if input().find(input()) >=0 else "no")

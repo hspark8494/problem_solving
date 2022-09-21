@@ -1,0 +1,1 @@
+print(["CY", "SK"][int(int(input())%2==1)])
