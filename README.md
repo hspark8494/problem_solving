@@ -2,5 +2,3 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hspark8494)](https://solved.ac/boj=hspark8494)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hspark8494&layout=compact&theme=dracula)
