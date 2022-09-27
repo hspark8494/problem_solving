@@ -1,11 +1,3 @@
-/*
- * 벌러캠프-매시 Berlekamp-Massey
- *
- * 입력받은 수열을 만족하는 가장 짧은 선형 점화식을 반환
- *
- * 출처 : https://koosaga.com/231
- */
-
 const int mod = 998244353;
 using lint = long long;
 lint ipow(lint x, lint p){
