@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-sys.setrecursionlimit(10000000)
+sys.setrecursionlimit(100000)
 
 
 def dfs(i, li, visited):
