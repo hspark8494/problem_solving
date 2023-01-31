@@ -1,0 +1,12 @@
+Open Cons For Input As #1
+Print " _________"
+Print " \_     _/"
+Print "   \   /"
+Print "    | |"
+Print "   /   \"
+Print "  /     \"
+Print " |       |"
+Print "/---------\"
+Print "| \-/ \-/ |"
+Print "\---------/"
+Print " \_______/"
