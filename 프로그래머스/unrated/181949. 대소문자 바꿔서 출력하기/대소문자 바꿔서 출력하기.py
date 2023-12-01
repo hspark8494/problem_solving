@@ -1,0 +1,1 @@
+print(''.join(chr(ord(c) ^ 32) for c in input()))
